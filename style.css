@@ -1,0 +1,16 @@
+h1 {
+    color: red;
+    background-color: burlywood;
+
+  }
+  h2 {
+    color: purple; 
+    background-color: green;
+  }
+  body {
+    background-color: black;
+    color: wheat;
+  }
+  p { 
+    font-style: oblique;
+  }
